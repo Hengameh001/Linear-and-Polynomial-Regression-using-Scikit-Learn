@@ -1,4 +1,4 @@
-# Machine Learning for Beginners - Regression Analysis Projects
+# Machine Learning - Regression Analysis Projects
 
 ## Analyzing and Cleaning a Dataset: The Pumpkin Pricing Project
 
